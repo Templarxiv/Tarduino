@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "rootDir": ".",
+        "target": "es6",
+        "module": "commonjs",
+        "noImplicitAny": false,
+        "jsx": "react",
+        "moduleResolution": "node",
+        "allowSyntheticDefaultImports": true,
+        "experimentalDecorators": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
